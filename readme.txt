@@ -1,4 +1,4 @@
-# 🔥 Roastify Me
+#🔥 Roastify Me
 
 Welcome to **Roastify Me** – the sassiest Streamlit web app that serves up hilarious **roasts** or wholesome **compliments** based on your mood or what you type. Whether you're feeling fabulous, fiery, or flat, we've got the right punchline (or hug) for you.
 

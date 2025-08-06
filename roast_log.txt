@@ -1,0 +1,7 @@
+2025-08-06 10:17:10.727916 | Roast | Input: Surprise me! | Output: Your smile could power a server — until it segfaults. 😬
+2025-08-06 10:17:32.082457 | Roast | Input: I am in a gala mood | Output: You're the caffeine of this team. ☕
+2025-08-06 10:19:39.638041 | Roast | Input: I am in a furious | Output: Your smile could power a server — until it segfaults. 😬
+2025-08-06 10:19:51.210078 | Roast | Input: I am in a furious | Output: You're so down bad, even your ML model underfits. 📉
+2025-08-06 10:23:48.800010 | Compliment | Input: Why is AI so weird | Output: You said: *Why is AI so weird*... and still thought you’d escape a roast? 😏
+2025-08-06 10:23:52.944799 | Compliment | Input: Why is AI so weird | Output: You said: *Why is AI so weird*... and still thought you’d escape a roast? 😏
+2025-08-06 10:24:14.592714 | Roast | Input: Feeling meh | Output: You said: *Feeling meh*... and still thought you’d escape a roast? 😏
